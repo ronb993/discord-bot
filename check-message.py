@@ -1,7 +1,7 @@
 import time
 import json
 import requests
-from chatscript_client import *
+from chatscript import *
 
 lastTime = ""
 
