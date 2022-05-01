@@ -23,7 +23,7 @@ def sendAndReceiveChatScript(msgToSend, server='127.0.0.1', port=1024, timeout=1
     except:
         return None
 
-server = 127.0.0.1
+server = '127.0.0.1'
 port = 1024
 botname = "harry"
 user="bob"
